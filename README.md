@@ -1,2 +1,2 @@
-# CVT
-Counting centroidal Voronoi tesselations
+# Counting centroidal Voronoi tesselations
+
