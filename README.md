@@ -6,7 +6,7 @@ We should highlight _stable_ CVTs (SCVTs) which are local minimizers of energy-l
 Unfortunately the [article in wiki](https://en.wikipedia.org/wiki/Centroidal_Voronoi_tessellation) is a stub and contains an extra diagram that is not stable CVT for the square.  
 
 Here I will collect materials related to CVT, and primarily to **counting SCVTs for square and disk**.   
-### What is ready now  
+### What are ready now  
 - [Tool to detect distinct patterns](DetectPatterns.nb) using Wolfram Mathematica  
 (with detailed explanations)
 - [Tool for counting](CVTCountingSimple.nb) distinct stable CVTs using Lloyd algorithm  
