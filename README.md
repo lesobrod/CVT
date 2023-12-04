@@ -9,6 +9,6 @@ Here I will collect materials related to CVT, and primarily to **counting SCVTs 
 What is ready now:  
 - [Tool to detect distinct patterns](DetectPatterns.nb) using Wolfram Mathematica  
 (with detailed explanations)
-- [Tool for counting](CVTCountingSimple.nb) stable CVTs using Lloyd algorithm  
+- [Tool for counting](CVTCountingSimple.nb) distinct stable CVTs using Lloyd algorithm  
 (as code with short comments)
 - [Results](Results) for number of seeds up to 22, which are proposed as a [draft on OEIS]()
