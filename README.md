@@ -16,4 +16,5 @@ which are proposed as drafts on OEIS ([disk](https://oeis.org/draft/A363822)  [s
 ### TODO list
 - Possible problems and pitfalls of generation and counting patterns
 - Interactive demonstration of energy function
-- Alternatives for initialization and iterations 
+- Alternatives for initialization and iteration algorithms
+- Realization on Python and Julia
