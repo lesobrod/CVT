@@ -17,4 +17,5 @@ which are proposed as drafts on OEIS ([disk](https://oeis.org/draft/A363822)  [s
 - Possible problems and pitfalls of generation and counting patterns
 - Interactive demonstration of energy function
 - Alternatives for initialization and iteration algorithms
+- Possible approaches to *unstable* CVT counting
 - Realization on Python and Julia
