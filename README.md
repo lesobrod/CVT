@@ -13,8 +13,8 @@ Here I will collect materials related to CVT, and primarily to **counting SCVTs 
 (as code with short comments)
 - [Results](Results) for number of seeds up to 22,  
 which are proposed as drafts on OEIS ([disk](https://oeis.org/draft/A363822)  [square](https://oeis.org/draft/A366544))
+- [Review](CVTCountingProblems.nb) of possible _problems and pitfalls_ of generation and counting patterns
 ### TODO list
-- Possible problems and pitfalls of generation and counting patterns
 - Interactive demonstration of energy function
 - Alternatives for initialization and iteration algorithms
 - Possible approaches to *unstable* CVT counting
